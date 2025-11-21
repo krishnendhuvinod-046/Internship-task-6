@@ -48,13 +48,13 @@ ORDER BY
     Sales_Month;
 ```
 
-📈 Results
+## 📈 Results
 The analysis successfully grouped the sales data. Below is a screenshot of the query output:
 
 <img width="889" height="450" alt="output" src="https://github.com/user-attachments/assets/058e5c81-cd45-4829-ba53-a12cb0dcca37" />
 
 
-💡 Key Findings
+## 💡 Key Findings
 The data was successfully aggregated by month.
 
 Total Revenue varies significantly across different months.
